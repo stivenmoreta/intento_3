@@ -1,0 +1,22 @@
+.img_izquierda{
+    float: left;
+    
+}
+
+.centrar_texto{
+    text-align: center;
+}
+
+.texto_derecha{
+    float: right;
+}
+
+
+ul{
+    list-style-type:None;
+
+}
+
+li{
+    float:right ;
+}
